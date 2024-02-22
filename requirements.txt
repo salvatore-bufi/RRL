@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorboard
+sklearn
+numpy
+pandas
+matplotlib
+CUDA
